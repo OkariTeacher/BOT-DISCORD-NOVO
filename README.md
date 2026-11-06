@@ -1,6 +1,6 @@
 # 🤖 Bot do Discord com Inteligência Artificial
 
-Neste projeto você vai integrar um **modelo de IA treinado no Teachable Machine** a um **bot do Discord**. O bot recebe uma imagem, analisa com o modelo e responde no chat qual é a classe (por exemplo, **Pardal** ou **Pombo**) e o quão confiante ele está. 🐦
+Neste projeto você vai integrar um **modelo de IA treinado no Teachable Machine** a um **bot do Discord**. Neste exemplo o bot recebe uma imagem, analisa com o modelo e responde no chat qual é a classe (por exemplo, **Pardal** ou **Pombo**) e o quão confiante ele está. 🐦
 
 No final, você também vai enviar o projeto para o **GitHub** e deixá-lo com cara de projeto profissional.
 
